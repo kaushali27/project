@@ -115,4 +115,4 @@ netflix_titles.csv → Dataset
 
 README.md → Project documentation
 
-Github link- https://github.com/kaushali27/project.git
+Github link- https://github.com/kaushali27/netflix-eda
